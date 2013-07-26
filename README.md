@@ -8,3 +8,5 @@ These tweets were collected by Superstorm Research Lab and are offered free to a
 If you write any codes or programs to parse this file, please share them in this repo for everyone to access!
 
 Please note that the unzipped file is very large, approximately 650 MB.
+
+For more information email erin.acb /at/ gmail or visit <a href="http://www.superstormresearchlab.com">Superstorm Research Lab</a>
